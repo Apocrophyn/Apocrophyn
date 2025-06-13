@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apocrophyn
+- 👋 Hi, I’m @ATakashi
 - 👀 I’m interested in coding and technology.
 - 🌱 I’m currently learning HTML,CSS, NODE, React, JAVA
 - 💞️ I’m looking to collaborate on ...
