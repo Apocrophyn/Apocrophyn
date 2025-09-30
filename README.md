@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @ATakashi
-- 👀 I’m interested in coding and technology.
-- 🌱 I’m currently learning HTML,CSS, NODE, React, JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hey, I’m Ahsan
 
-<!---
-Apocrophyn/Apocrophyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Graduate | 💻 Freelancer (8+ years) | Exploring AI & automation
+
+About Me
+
+* Recently **Computer Science** at the University of East London
+* 8+ years freelancing experience in **support, sales, real estate & QA**
+* Passionate about **AI, automation, and building useful tools**
+* Exploring projects in **trading, chatbots, and SaaS apps**
+
+## 🌱 What I’m Doing
+
+* Learning & experimenting with **AI-driven development**
+* Working on personal projects like a **medical assistant chatbot** and **crypto tools**
+* Using AI to speed up coding, research, and problem-solving
+
+## 📫 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/ahsan-ali-41031a222/)
+* 📧 [email] ( ahsanalijanjuar@outlook.com )
+
+✨ *“Learning every day, building step by step.”*
+
