@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/><stop offset="0.55" stop-color="#1e3a8a"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.35"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <ellipse cx="600" cy="110" rx="520" ry="160" fill="url(#glow)">
+    <animate attributeName="rx" values="480;560;480" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="128" font-size="64" font-weight="700" fill="#ffffff" letter-spacing="1">Ahsan Ali Janjua
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text x="600" y="176" font-size="22" fill="#c4b5fd" letter-spacing="4">FULL-STACK &amp; AI ENGINEER  ·  LONDON, UK</text>
+  </g>
+  <rect x="540" y="198" width="120" height="3" rx="1.5" fill="#a78bfa">
+    <animate attributeName="width" values="0;120" dur="1.4s" fill="freeze"/>
+    <animate attributeName="x" values="600;540" dur="1.4s" fill="freeze"/>
+  </rect>
+</svg>

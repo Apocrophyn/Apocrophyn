@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:7c3aed&text=Ahsan%20Ali&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%20London%2C%20UK&descAlignY=58&descSize=18&animation=fadeIn" alt="Ahsan Ali" />
+  <img src="./assets/header.svg" alt="Ahsan Ali Janjua — Full-Stack & AI Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -20,20 +20,13 @@
 
 ## About me
 
-```ts
-const ahsan = {
-  role:       "Full-Stack & AI Engineer",
-  location:   "London, UK",
-  education:  "BSc (Hons) Applied Computing — First Class, 84% · University of East London",
-  shipped:    "6 deployed apps across EdTech, HealthTech, PropTech & dev tooling",
-  stack:      ["TypeScript", "React", "Next.js", "Supabase", "Tailwind CSS"],
-  ai:         ["GPT-4o", "Whisper", "MCP servers", "Agent workflows"],
-  placements: ["EA", "Citi", "HPE", "AWS", "Walmart", "Wells Fargo", "Verizon"],
-  openTo:     ["Full-time roles", "Freelance projects", "Collaborations"],
-};
-```
+I'm a **Full-Stack & AI Engineer** based in **London**. I build AI-powered products end to end: interface, API, database and deployment.
 
-I build AI-powered products end to end: interface, API, database and deployment. My dissertation, a medical assistant chatbot, reached **75% top-1 and 100% top-3 diagnostic accuracy** on 20 clinical vignettes. On the same cases, Ada Health scored 52% and Babylon Health 40%. I care about the details users actually feel: fast pages, clear flows and motion that has a purpose.
+- 🎓 **BSc (Hons) Applied Computing**, First Class Honours (84%), University of East London
+- 🚀 **6 deployed apps** across EdTech, HealthTech, PropTech and developer tooling
+- 🧠 My dissertation chatbot reached **75% top-1 / 100% top-3 diagnostic accuracy**, ahead of Ada Health (52%) and Babylon Health (40%) on the same cases
+- 🏢 **70+ hours** of virtual software engineering placements with EA, Citi, HPE, AWS, Walmart, Wells Fargo and Verizon
+- 🤝 Open to **full-time roles, freelance projects and collaborations**
 
 ---
 
@@ -170,4 +163,3 @@ I build AI-powered products end to end: interface, API, database and deployment.
   <a href="mailto:ahsanalijanjuar@outlook.com">ahsanalijanjuar@outlook.com</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7c3aed,50:1e3a8a,100:0f172a&section=footer" width="100%" />
