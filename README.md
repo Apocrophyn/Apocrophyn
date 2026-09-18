@@ -22,11 +22,11 @@
 
 I'm a **Full-Stack & AI Engineer** based in **London**. I build AI-powered products end to end: interface, API, database and deployment.
 
-- 🎓 **BSc (Hons) Applied Computing**, First Class Honours (84%), University of East London
-- 🚀 **6 deployed apps** across EdTech, HealthTech, PropTech and developer tooling
-- 🧠 My dissertation chatbot reached **75% top-1 / 100% top-3 diagnostic accuracy**, ahead of Ada Health (52%) and Babylon Health (40%) on the same cases
-- 🏢 **70+ hours** of virtual software engineering placements with EA, Citi, HPE, AWS, Walmart, Wells Fargo and Verizon
-- 🤝 Open to **full-time roles, freelance projects and collaborations**
+- **Education:** BSc (Hons) Applied Computing, First Class Honours (84%), University of East London
+- **Shipped:** 6 deployed apps across EdTech, HealthTech, PropTech and developer tooling
+- **Research:** my dissertation chatbot reached 75% top-1 / 100% top-3 diagnostic accuracy, ahead of Ada Health (52%) and Babylon Health (40%)
+- **Experience:** 70+ hours of virtual engineering placements with EA, Citi, HPE, AWS, Walmart, Wells Fargo and Verizon
+- **Open to:** full-time roles, freelance projects and collaborations
 
 ---
 
@@ -108,6 +108,15 @@ I'm a **Full-Stack & AI Engineer** based in **London**. I build AI-powered produ
 </table>
 
 <p align="center"><sub>Also building <b>Component Atlas</b>, a React component library with an MCP server that lets AI agents find and install components.</sub></p>
+
+---
+
+## Currently
+
+| Building | Learning | Exploring |
+| :-- | :-- | :-- |
+| Local Lens: UK property intelligence | Three.js / React Three Fiber | MCP servers & agent tooling |
+| Component Atlas: UI library + MCP server | Advanced GSAP motion | AI-assisted game generation |
 
 ---
 
