@@ -169,6 +169,6 @@ I'm a **Full-Stack & AI Engineer** based in **London**. I build AI-powered produ
 
 <p align="center">
   <b>Have a project in mind? Let's build it.</b><br/>
-  <a href="mailto:ahsanalijanjuar@outlook.com">ahsanalijanjuar@outlook.com</a>
+  <a href="https://ahsanali.dev">ahsanali.dev</a> · <a href="mailto:ahsanalijanjuar@outlook.com">ahsanalijanjuar@outlook.com</a> · <a href="https://www.linkedin.com/in/ahsan-ali-41031a222/">LinkedIn</a>
 </p>
 
